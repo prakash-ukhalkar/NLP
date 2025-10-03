@@ -12,12 +12,12 @@ This repository serves as a beginner-friendly, step-by-step guide to mastering N
 
 Whether you're a student, a self-learner, or someone transitioning into data science, this repo provides a clear, structured path to understanding the fundamental concepts of NLP.
 
-### Focus Areas
+### **Focus Areas**
 
-• **NLTK & SpaCy Mastery**: Deep-dive into NLP libraries like NLTK, SpaCy, and text preprocessing techniques.
-• **Text Processing**: Feature engineering, tokenization, stemming, lemmatization, and text vectorization.
-• **Algorithm Implementation**: Step-by-step implementation of classic NLP algorithms with detailed explanations.
-• **Storytelling**: Every analysis is accompanied by clear, educational markdown explanations and practical business applications.
+* **NLTK & SpaCy Mastery**: Deep-dive into NLP libraries like NLTK, SpaCy, and text preprocessing techniques.
+* **Text Processing**: Feature engineering, tokenization, stemming, lemmatization, and text vectorization.
+* **Algorithm Implementation**: Step-by-step implementation of classic NLP algorithms with detailed explanations.
+* **Storytelling**: Every analysis is accompanied by clear, educational markdown explanations and practical business applications.
 
 ## Repository Structure
 
@@ -52,12 +52,12 @@ NLP/
 
 To run the notebooks locally, follow these steps.
 
-### 1. Prerequisites
+### **1. Prerequisites**
 
-• **Python**: Version 3.8 or higher.
-• **Git**: For cloning the repository.
+* **Python**: Version 3.8 or higher.
+* **Git**: For cloning the repository.
 
-### 2. Setup Instructions
+### **2. Setup Instructions**
 
 1. **Clone the repository:**
    ```bash
@@ -84,16 +84,16 @@ To run the notebooks locally, follow these steps.
    jupyter lab
    ```
 
-### 3. Running the Analysis
+### **3. Running the Analysis**
 
 Start with the notebook `01_chapter_introduction` and proceed sequentially through the numbered directories.
 
 ---
 
-## Course Structure
+## Notebooks: A Detailed Roadmap
 
-| | | |
-|--|--|--|
+| Notebook | Title | Key Learning Outcomes |
+| :--- | :--- | :--- |
 | **01** | **Introduction & Setup** | NLP Pipeline Overview, NLTK/SpaCy installation, environment setup, and first NLP program. |
 | **02** | **Text Preprocessing** | Tokenization techniques, stopwords removal, stemming vs. lemmatization, and text normalization. |
 | **03** | **Working with Data** | NLTK corpora exploration, loading real-world datasets with pandas, and exploratory data analysis. |
@@ -112,17 +112,17 @@ Start with the notebook `01_chapter_introduction` and proceed sequentially throu
 
 The core libraries used are:
 
-• `nltk`
-• `spacy`
-• `pandas`
-• `numpy`
-• `scikit-learn`
-• `matplotlib`
-• `seaborn`
-• `gensim`
-• `transformers`
-• `flask`
-• `jupyter`
+* `nltk`
+* `spacy`
+* `pandas`
+* `numpy`
+* `scikit-learn`
+* `matplotlib`
+* `seaborn`
+* `gensim`
+* `transformers`
+* `flask`
+* `jupyter`
 
 #### Contributions
 
