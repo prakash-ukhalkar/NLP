@@ -1,4 +1,4 @@
-# Natural Language Processing using Python Programming for Beginners
+# Natural Language Processing using Python Programming
 
 | Project Status | License | Environment |
 | :--- | :--- | :--- |
