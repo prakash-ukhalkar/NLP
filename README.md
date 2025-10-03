@@ -1,23 +1,23 @@
 # Natural Language Processing using Python Programming for Beginners
 
-| | | |
-|--|--|--|
-| Active Development | License: MIT | Python |
+| Project Status | License | Environment |
+| :--- | :--- | :--- |
+| **Active Development** | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) |
 
 ## Introduction & Project Vision
 
-Welcome to `Natural Language Processing (NLP)`!
+Welcome to **`Natural Language Processing (NLP)`**!
 
-This repository serves as a beginner-friendly, step-by-step guide to mastering Natural Language Processing (NLP) using the Python programming language. My approach is uniquely focused on **Practical Learning**, **Code Implementation**, and **Concept Understanding**, providing comprehensive insights through hands-on examples and real-world datasets.
+This repository serves as a **beginner-friendly, step-by-step guide** to mastering Natural Language Processing (NLP) using the Python programming language. My approach is uniquely focused on **Practical Learning, Code Implementation, and Concept Understanding**, providing comprehensive insights through hands-on examples and real-world datasets.
 
 Whether you're a student, a self-learner, or someone transitioning into data science, this repo provides a clear, structured path to understanding the fundamental concepts of NLP.
 
 ### **Focus Areas**
 
-* **NLTK & SpaCy Mastery**: Deep-dive into NLP libraries like NLTK, SpaCy, and text preprocessing techniques.
-* **Text Processing**: Feature engineering, tokenization, stemming, lemmatization, and text vectorization.
-* **Algorithm Implementation**: Step-by-step implementation of classic NLP algorithms with detailed explanations.
-* **Storytelling**: Every analysis is accompanied by clear, educational markdown explanations and practical business applications.
+* **NLTK & SpaCy Mastery:** Deep-dive into NLP libraries like NLTK, SpaCy, and text preprocessing techniques.
+* **Text Processing:** Feature engineering, tokenization, stemming, lemmatization, and text vectorization.
+* **Algorithm Implementation:** Step-by-step implementation of classic NLP algorithms with detailed explanations.
+* **Storytelling:** Every analysis is accompanied by clear, educational markdown explanations and practical business applications.
 
 ## Repository Structure
 
@@ -54,8 +54,8 @@ To run the notebooks locally, follow these steps.
 
 ### **1. Prerequisites**
 
-* **Python**: Version 3.8 or higher.
-* **Git**: For cloning the repository.
+* **Python:** Version 3.8 or higher.
+* **Git:** For cloning the repository.
 
 ### **2. Setup Instructions**
 
@@ -68,8 +68,8 @@ To run the notebooks locally, follow these steps.
 2. **Create and activate a virtual environment (Recommended):**
    ```bash
    # Using venv (standard Python)
-   python -m venv nlp_env
-   source nlp_env/bin/activate  # On Windows: nlp_env\Scripts\activate
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
 3. **Install dependencies:**
@@ -124,15 +124,24 @@ The core libraries used are:
 * `flask`
 * `jupyter`
 
+---
+
 #### Contributions
 
 Contributions are welcome! If you'd like to improve examples, add topics, or fix something, feel free to open a pull request.
 
 Happy Learning!
 
+---
+
 ## Author
 
-Natural Language Processing (NLP) is created and maintained by [Prakash Ukhalkar](https://github.com/prakash-ukhalkar)
+**Natural Language Processing (NLP)** is created and maintained by [**Prakash Ukhalkar**](https://github.com/prakash-ukhalkar)
 
-Built with ❤️ for the Python community
+---
+
+<div align="center">
+ 
+<sub>Built with ❤️ for the Python community</sub>
+</div>
 
