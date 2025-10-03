@@ -1,21 +1,16 @@
-# Python bytecode files
-__pycache__/
-*.pyc
-
-# Virtual environment
-.env/
-.venv/
-
-# Logs
-*.log
-
-# OS-specific files
+# Operating system files
 .DS_Store
 Thumbs.db
 
-# Editor specific files
+# Python environment/compilation
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
 .vscode/
-.idea/
 
-# Environment files
-.env
+# Data and Models - KEEP these files small or ignore large ones
+# We only commit small datasets. For large data, instruct users to download.
+# For now, let's allow small data but ignore large models
+data/processed/*
+models/*
