@@ -12,5 +12,7 @@ venv/
 # Data and Models - KEEP these files small or ignore large ones
 # We only commit small datasets. For large data, instruct users to download.
 # For now, let's allow small data but ignore large models
-data/processed/*
+# data/processed/*
 models/*
+nlp_etc/*
+*.ipynb
